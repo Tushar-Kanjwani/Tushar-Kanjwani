@@ -3,22 +3,22 @@
 <!-- ========================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:22c55e&height=220&section=header&text=Tushar%20Kanjwani&fontSize=40&fontColor=ffffff&desc=AI%20Engineer%20|%20GenAI%20|%20Computer%20Vision&descAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:22c55e&height=220&section=header&text=Tushar%20Kanjwani&fontSize=40&fontColor=ffffff&descAlignY=65" />
 </p><p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+Generative+AI+%26+LLMs;Research-driven+Machine+Learning+Engineer;Computer+Vision+%7C+RAG+%7C+Diffusion+Models;Bridging+Research+and+Production+AI;Building+Scalable%2C+Impactful+AI+Systems" />
 </p>
 
-🔭 Designing and implementing research-driven AI systems across Generative AI, LLM-based architectures, RAG pipelines, and Computer Vision, with a strong emphasis on real-world deployment and measurable impact.
+🔭 Building research-driven AI systems using Generative AI, LLMs, RAG, and Computer Vision.  
 
-👯 Actively interested in collaborating on open-source and research-focused AI/ML projects, particularly in healthcare AI, OCR, multimodal learning, and applied generative systems.
+👯 Open to collaboration on open-source, research, and startup-focused AI/ML projects.  
 
-🤝 Exploring advanced topics such as LLM optimization, scalable retrieval-augmented generation, and production-grade AI deployment pipelines that bridge academic research and startup environments.
+🤝 Interested in LLM optimization, scalable RAG architectures, and production AI systems.  
 
-🌱 Deepening expertise in diffusion models, LLM fine-tuning, multimodal representation learning, and cloud-native AI systems using Docker and AWS.
+🌱 Exploring diffusion models, LLM fine-tuning, multimodal learning, and cloud-native AI.  
 
-💬 Comfortable discussing Python-based ML pipelines, TensorFlow, Keras, Hugging Face ecosystems, LLM orchestration, OpenCV, Streamlit, and end-to-end AI system design.
+💬 Happy to discuss Python, TensorFlow, Keras, Hugging Face, OpenCV, and end-to-end AI pipelines.  
 
-⚡ Motivated by transforming rigorous AI research into scalable, user-centric solutions that perform reliably beyond the lab.
+⚡ Passionate about translating AI research into scalable, real-world solutions.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tushar-kanjwani) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tusharkanjwani13@gmail.com) 
