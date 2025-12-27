@@ -28,10 +28,6 @@
 # 📊 GitHub Stats:
 
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Tushar-Kanjwani&theme=tokyonight&hide_border=true"/>
-</p>
-
 ![](https://github-readme-stats.vercel.app/api?username=Tushar-Kanjwani&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Tushar-Kanjwani&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tushar-Kanjwani&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
@@ -39,7 +35,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Tushar-Kanjwani&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Tushar-Kanjwani&theme=onedark&margin-w=10&margin-h=10" />
 </p>
 
 ### 🔝 Top Contributed Repo
